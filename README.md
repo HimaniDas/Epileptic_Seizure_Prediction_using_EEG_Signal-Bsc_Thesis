@@ -17,7 +17,7 @@ The EEG dataset used for this study was sourced from the [UCI Machine Learning R
 We implemented and compared the performance of the following algorithms:
 - K-Nearest Neighbors (KNN)
 - Support Vector Machine (SVM)
-- Logistic Regression
+- Logistic Regression (LR)
 - Gaussian Naive Bayes
 - Decision Tree
 - Random Forest
